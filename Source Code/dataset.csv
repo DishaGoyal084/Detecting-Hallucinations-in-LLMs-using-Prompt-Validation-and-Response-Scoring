@@ -1,0 +1,8 @@
+question,ground_truth,category
+Who discovered gravity?,Isaac Newton,factual
+What is the capital of Japan?,Tokyo,factual
+Who invented the telephone?,Alexander Graham Bell,factual
+Why does ice float on water?,Because ice is less dense than water,reasoning
+Explain photosynthesis.,Plants convert sunlight into energy,descriptive
+Describe Atlantis civilization.,No verified historical evidence exists,ambiguous
+Was Albert Einstein born in India?,No,factual
